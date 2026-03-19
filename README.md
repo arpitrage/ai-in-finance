@@ -4,3 +4,17 @@ Course Material for class on AI in Finance at NYU Stern, created and taught by P
 You can access the syllabus here: https://www.dropbox.com/scl/fi/vpkdv08dk5leufpr3iy9v/AI-in-Finance-Syllabus.docx?rlkey=p42fdz191xarfm59zl0p07548&st=a7kro38b&dl=0
 
 Lecture notes are included in the appropriate dirctory. 
+
+You can also see lecture summaries on my substack:
+
+Session 1:
+https://arpitrage.substack.com/p/1-three-rules-for-ai-in-finance
+
+Session 2:
+https://arpitrage.substack.com/p/2-when-your-ai-is-lying-to-you
+
+Session 3:
+https://arpitrage.substack.com/p/3-the-cause-of-and-solution-to-all
+
+Session 4:
+https://arpitrage.substack.com/p/4-the-end-of-market-intelligence
