@@ -7,14 +7,17 @@ Lecture notes are included in the appropriate dirctory.
 
 You can also see lecture summaries on my substack:
 
-Session 1:
+Session 1: Foundations of AI in Finance
 https://arpitrage.substack.com/p/1-three-rules-for-ai-in-finance
 
-Session 2:
+Session 2: Finanical Document Intelligence
 https://arpitrage.substack.com/p/2-when-your-ai-is-lying-to-you
 
-Session 3:
+Session 3: Risk Assessment and Management
 https://arpitrage.substack.com/p/3-the-cause-of-and-solution-to-all
 
-Session 4:
+Session 4: Market Intelligence
 https://arpitrage.substack.com/p/4-the-end-of-market-intelligence
+
+Session 5: Fraud Detection and Compliance
+https://arpitrage.substack.com/p/finding-needles-in-haystacks
