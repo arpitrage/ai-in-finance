@@ -21,3 +21,8 @@ https://arpitrage.substack.com/p/4-the-end-of-market-intelligence
 
 Session 5: Fraud Detection and Compliance
 https://arpitrage.substack.com/p/finding-needles-in-haystacks
+
+Session 6: AI in Portfolio Management and Trading
+[https://arpitrage.substack.com/p/finding-needles-in-haystacks
+](https://arpitrage.substack.com/p/6-signal-and-noise)
+
