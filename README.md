@@ -23,6 +23,5 @@ Session 5: Fraud Detection and Compliance
 https://arpitrage.substack.com/p/finding-needles-in-haystacks
 
 Session 6: AI in Portfolio Management and Trading
-[https://arpitrage.substack.com/p/finding-needles-in-haystacks
-](https://arpitrage.substack.com/p/6-signal-and-noise)
+https://arpitrage.substack.com/p/6-signal-and-noise)
 
